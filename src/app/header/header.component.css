@@ -1,0 +1,11 @@
+.spacer {
+    flex: 1 1 auto;
+  }
+  
+  span.logo img{
+    width: 68px;
+  }
+
+  .mat-toolbar {
+    background-color: #dc4b1e;
+}

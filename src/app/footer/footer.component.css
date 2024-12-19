@@ -1,0 +1,25 @@
+.footer {
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    display: flex; 
+    align-items: center;
+    justify-content: space-between; 
+    padding: 10px 20px;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .footer-left h5 {
+    font-size: 14px;
+    margin: 0;
+  }
+  
+  .footer-right {
+    font-size: 14px;
+  }
+  

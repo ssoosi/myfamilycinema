@@ -1,0 +1,67 @@
+.movie-detail-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: #fff;
+    background-color: #373d35;
+  }
+  
+  .movie-detail-card {
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .rating-section {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .rating-input {
+    flex-grow: 1;
+  }
+  
+
+  .mat-mdc-card-header {
+    padding: 16px 0 16px 16px;
+  }
+
+
+  .rating-container {
+    display: flex;
+    gap: 5px;
+    cursor: pointer;
+  }
+  
+
+  mat-icon {
+    font-size: 32px;
+    cursor: pointer;
+  }
+  .mat-typography p {
+    margin: unset!important;
+ }
+
+ .tm{
+    margin-top: 20px;
+ }
+
+ .back-link {
+    display: inline-flex;
+    align-items: center;
+    color: #dc4b1e; /* Use your desired color */
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  .back-link:hover {
+    color: #b84c1a; /* Darken the color on hover */
+  }
+  
+  .back-link mat-icon {
+    margin-right: 8px;
+  }
