@@ -5,12 +5,15 @@ A movie web application built with Angular and Angular Material that allows user
 ![Movie App Screenshot](/src/app/assets/login.png)
 
 
+
 ## Features
 - **Login functionality:** Users must log in to view movie details.
 - **Movie listing:** Displays a paginated list of movies from The Movie Database (TMDb).
 - **Movie details page:** View detailed information about the movie, including poster and description.
 - **Movie rating:** Users can rate movies between 1 to 10.
 - **Responsive design:** The app is fully responsive and adapts to different screen sizes.
+
+![Movie App Screenshot](/src/app/assets/movielist.png)
 
 ## Technologies Used
 - **Angular:** A platform for building web applications.
