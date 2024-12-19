@@ -65,3 +65,12 @@
   .back-link mat-icon {
     margin-right: 8px;
   }
+
+  .mat-mdc-raised-button {
+    color: #fff;
+    background-color: #dc4b1e;
+  }
+  .mat-mdc-raised-button:not(:disabled) {
+    color: #fff;
+    background-color: #dc4b1e;
+  }
