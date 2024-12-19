@@ -15,6 +15,7 @@ A movie web application built with Angular and Angular Material that allows user
 
 ![Movie App Screenshot](/src/app/assets/movielist.png)
 
+
 ## Technologies Used
 - **Angular:** A platform for building web applications.
 - **Angular Material:** Material design components for the UI.
@@ -88,7 +89,7 @@ src/
 ├── styles.css
 └── index.html
 ```
-
+![Movie App Screenshot](/src/app/assets/moviedetail.png)
 ## Troubleshooting
 - If you see the error `NG8001: 'mat-spinner' is not a known element`, ensure you have imported the required Angular Material modules in `app.module.ts`.
 - Ensure that you have correctly configured the API key for TMDb to retrieve movie data.
