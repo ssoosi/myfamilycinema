@@ -10,7 +10,7 @@
   background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/7ca5b7c7-20aa-42a8-a278-f801b0d65fa1/69983c6a-675a-47ce-a0bf-f4a84d3291e8/ZA-en-20240326-popsignuptwoweeks-perspective_alpha_website_medium.jpg");
   background-size: cover;
   background-position: center;
-  opacity: 0.9; 
+  /* //opacity: 0.9;  */
 
 }
 .mat-mdc-raised-button {
